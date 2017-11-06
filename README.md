@@ -10,4 +10,4 @@ Quantifying the average Hartley information quotient in language from Twitter
 	Tweepy 
 
 # Visualized
-	<img src='Hartley_by_topic.png'></img>
+<img src='Hartley_by_topic.png'></img>
